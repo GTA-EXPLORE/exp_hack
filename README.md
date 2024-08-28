@@ -15,5 +15,5 @@ A small hacking minigame used in different EXPLORE scripts.
 ## Authors
 
 - [@MilyonJames](https://github.com/MilyonJames), at EXPLORE.
-- [@kieranirving](https://github.com/kieranirving), original authord of [hacking-minigame](https://github.com/kieranirving/hacking-minigame).
+- [@kieranirving](https://github.com/kieranirving), original author of [hacking-minigame](https://github.com/kieranirving/hacking-minigame).
 
