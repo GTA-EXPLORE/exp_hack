@@ -10,7 +10,7 @@ client_scripts {
 }
 
 files {
-    'ui/**/*'
+    'client/ui/**/*'
 }
 
-ui_page 'ui/index.html'
+ui_page 'client/ui/index.html'

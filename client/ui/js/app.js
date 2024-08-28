@@ -1,7 +1,7 @@
 var L // Locales
 var app = function() {
     let debug = false;
-    var bgSound = new Audio(`https://cfx-nui-exp_hack/ui/sounds/background.mp3`)
+    var bgSound = new Audio(`https://cfx-nui-exp_hack/client/ui/sounds/background.mp3`)
     bgSound.volume = 0.05
     let hOptions = 4,
         vOptions = 4,
@@ -252,7 +252,7 @@ function randomLetter() {
 }
 
 function PlaySound(sound, volume) {
-    var sound = new Audio(`https://cfx-nui-exp_hack/ui/sounds/${sound}`)
+    var sound = new Audio(`https://cfx-nui-exp_hack/client/ui/sounds/${sound}`)
     sound.volume = volume || 1.0
     sound.play()
     return sound
